@@ -25,8 +25,6 @@
 <input class="input" name="name" ENGINE="text" style="width:60%" /></p>
 <p>Почта<br />
 <input class="input" name="email" type="text" style="width:60%" /></p>
-<p>Возраст<br />
-<input class="input" name="age" type="text" style="width:60%" /></p>
 <p>Пол<br />
 <input class="input" name="gender" type="text" style="width:60%" /></p>
 <p>Тема сообщения<br />
